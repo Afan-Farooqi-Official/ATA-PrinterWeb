@@ -73,8 +73,8 @@ const About = () => {
         <h2 className="text-center font-medium text-gray-800 uppercase tracking-widest text-sm underline underline-offset-8 decoration-sky-500">Meet Our Team</h2>
         <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
           {[
-            { name: "Zeeshan Qureshi", role: "Lead Architect", img: assets.demo1 },
-            { name: "Syed Alam Shah", role: "Architecture Designer", img: assets.demo2 },
+            { name: "Syed Alam Shah", role: "Lead Architect", img: assets.demo1 },
+            { name: "Zeeshan Qureshi", role: "Architecture Designer", img: assets.demo2 },
             { name: "Zeeshan Sheikh", role: "Project Manager", img: assets.demo3 },
           ].map((member, idx) => (
             <div key={idx} className="flex flex-col items-center text-center group">
