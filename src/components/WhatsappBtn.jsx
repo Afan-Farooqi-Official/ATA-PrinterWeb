@@ -3,10 +3,10 @@ import React from 'react'
 const WhatsappBtn = () => {
     return (
     <a
-      href="https://wa.me/923002517452?text=Hi%20I%20need%20help"
+      href="https://wa.me/923002517452?text=Hello%2C%20I%20recently%20visited%20your%20website%20and%20would%20like%20to%20inquire%20about%20your%20services."
       target="_blank"
       rel="noopener noreferrer"
-      className="fixed bottom-10 right-10 z-50 flex items-center justify-center w-14 h-14 rounded-full bg-green-500 shadow-[0_4px_10px_rgba(0,0,0,0.25)] hover:bg-green-600 transition"
+      className="fixed bottom-5 right-5 sm:bottom-10 sm:right-10 z-50 flex items-center justify-center w-14 h-14 rounded-full bg-green-500 shadow-[0_4px_10px_rgba(0,0,0,0.25)] hover:bg-green-600 transition"
     >
         <svg
             xmlns="http://www.w3.org/2000/svg"
