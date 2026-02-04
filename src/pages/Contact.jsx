@@ -33,7 +33,7 @@ const Contact = () => {
           
           <div className='space-y-4'>
             <p className='font-semibold text-xl text-gray-600 tracking-wider uppercase underline underline-offset-8 decoration-sky-500'>
-              Our Studio
+              Our Office
             </p>
             <p className='text-gray-500 leading-relaxed'>
               Office No-14, Ground Floor, <br /> Habib Chamber, Block-14, <br />

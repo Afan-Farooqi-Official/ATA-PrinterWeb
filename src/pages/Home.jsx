@@ -18,7 +18,7 @@ const Home = () => {
         {/* Hero Text Overlay */}
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4 z-10">
           <h1 className="text-white text-4xl sm:text-5xl md:text-6xl font-bold tracking-wide drop-shadow-lg">
-            ATA Printer Studio
+            ATA Printer
           </h1>
           <p className="mt-4 text-gray-200 text-lg sm:text-xl max-w-2xl drop-shadow-md">
             Modern & classic architectural services, 2D & 3D designs, and precision printing solutions.

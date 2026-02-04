@@ -35,7 +35,7 @@ const Footer = () => {
           {/* Contact */}
           <div className="space-y-4">
             <h4 className="text-gray-800 font-medium uppercase tracking-widest text-sm">
-              Studio
+              Office
             </h4>
             <p className="text-gray-500 text-sm leading-relaxed">
               Office No-14, Ground Floor, <br /> Habib Chamber, Block-14, <br />
@@ -53,7 +53,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-200 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-400 tracking-wider">
-            © {new Date().getFullYear()} ATA Printer Studio. All rights reserved.
+            © {new Date().getFullYear()} ATA Printer. All rights reserved.
           </p>
 
           <p className="text-xs text-gray-400">
