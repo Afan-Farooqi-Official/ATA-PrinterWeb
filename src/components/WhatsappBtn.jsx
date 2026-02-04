@@ -3,7 +3,7 @@ import React from 'react'
 const WhatsappBtn = () => {
     return (
     <a
-      href="https://wa.me/03002517452?text=Hi%20I%20need%20help"
+      href="https://wa.me/923002517452?text=Hi%20I%20need%20help"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-10 right-10 z-50 flex items-center justify-center w-14 h-14 rounded-full bg-green-500 shadow-[0_4px_10px_rgba(0,0,0,0.25)] hover:bg-green-600 transition"
